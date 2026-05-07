@@ -14,7 +14,7 @@
 - 🏢 Ex **Software Engineering Intern** @ Chatter Labs (AI & Full Stack)
 - 🤖 Built AI-powered apps using **Google Gemini API**
 - 🚀 Passionate about building scalable, production-grade web applications
-- 🌱 Currently learning **Next.js** and **GraphQL**
+- 🌱 Currently learning about the core concept of **Scalability** 
 - 📫 Reach me at **faizansatti2001@gmail.com**
 - ⚡ Fun fact: I turn coffee into code!
 
