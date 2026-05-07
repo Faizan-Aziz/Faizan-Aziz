@@ -47,7 +47,7 @@
 | Project | Description | Tech | Live |
 |---|---|---|---|
 | **Smart Donation System** | Full-stack donation platform with Stripe payments & Gemini AI chatbot | React, Node, MongoDB, Stripe, JWT | [🔗 Live](https://hope-by-aziz-client.vercel.app/login) |
-| **Solar Energy Portfolio** | React SPA with 25% performance improvement & 99.9% uptime | React, Node, Vercel, CI/CD | [🔗 Live](https://www.hafeezsolarenergy.com/) |
+| **Hafeez Solar Energy** | React SPA with 25% performance improvement & 99.9% uptime | React, Node, Vercel, CI/CD | [🔗 Live](https://www.hafeezsolarenergy.com/) |
 | **Lyrics of My Life** | Responsive JavaScript music web app | JavaScript, HTML5, CSS3 | [🔗 Live](https://mylifelyrics.netlify.app/) |
 
 ---
