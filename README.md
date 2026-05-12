@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Software Engineering Graduate from **International Islamic University Islamabad**
-- 💼 Ex **Junior Full Stack Developer** @ Zippy Ecom Solutions
+- 💼 Ex **Full Stack Developer** @ Zippy Ecom Solutions
 - 🏢 Ex **Software Engineering Intern** @ Chatter Labs (AI & Full Stack)
 - 🤖 Built AI-powered apps using **Google Gemini API**
 - 🚀 Passionate about building scalable, production-grade web applications
