@@ -8,9 +8,8 @@
 ---
 
 ### 👨‍💻 About Me
-<!-- - 🏢 Ex **Software Engineering Intern** @ Chatter Labs (AI & Full Stack) -->
 - 🎓 Software Engineering Graduate from **International Islamic University Islamabad**
-- 💼 Ex **Full Stack Developer Intern** @ Zippy Ecom Solutions
+- 💼 Ex **Full Stack Developer Intern** @ Chatter Labs
 - 🤖 Built AI-powered apps using **Google Gemini API**
 - 🚀 Passionate about building scalable, production-grade web applications
 - 🌱 Currently learning about the core concept of **Scalability** 
@@ -48,7 +47,4 @@
 | **Smart Donation System** | Full-stack donation platform with Stripe payments & Gemini AI chatbot | React, Node, MongoDB, Stripe, JWT | [🔗 Live](https://hope-by-aziz-client.vercel.app/login) |
 | **Hafeez Solar Energy** | React SPA with 25% performance improvement & 99.9% uptime | React, Node, Vercel, CI/CD | [🔗 Live](https://www.hafeezsolarenergy.com/) |
 | **Lyrics of My Life** | Responsive JavaScript music web app | JavaScript, HTML5, CSS3 | [🔗 Live](https://mylifelyrics.netlify.app/) |
-
----
-
-
+| **Amli Chat App** | Real-time chat application using WebSockets | React, Node.js, WebSockets | [🔗 Live](https://socail-media-content-schedular.vercel.app/) |
