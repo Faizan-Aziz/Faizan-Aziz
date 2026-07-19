@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering Graduate from **International Islamic University Islamabad**
-- 💼 Ex **Full Stack Developer Intern** @ Chatter Labs
+- 💼 Ex **Full Stack Developer** @ Chatter Labs
 - 🤖 Built AI-powered apps using **Google Gemini API**
 - 🚀 Passionate about building scalable, production-grade web applications
 - 🌱 Currently learning about the core concept of **Scalability** 
