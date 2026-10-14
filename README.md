@@ -69,3 +69,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Aziz&theme=dark" alt="Faizan's GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faizan-Aziz/Faizan-Aziz/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
