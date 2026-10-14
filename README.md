@@ -69,6 +69,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Aziz&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Aziz&layout=compact&theme=radial" width="48%" />
+  <img src="https://github-readme-stats-eight-31.vercel.app/api?username=Faizan-Aziz&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-readme-stats-eight-31.vercel.app/api/top-langs/?username=Faizan-Aziz&layout=compact&theme=radial" width="48%" />
 </p>
