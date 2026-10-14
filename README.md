@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering Graduate from **International Islamic University Islamabad**
-- 💼 Ex **Full Stack Developer** @ Chatter Labs | **Freelance Full-Stack & AI Engineer** on Upwork
+- 💼 Ex **Full Stack Developer** @ Chatter Labs | Currently **Freelance Full-Stack & AI Engineer**
 - 🤖 Specialized in **Agentic AI Tool-Calling Workflows**, **Google Gemini API**, and LLM integrations
-- ⚙️ Expertise in **High-Concurrency Backend Architecture**, database optimization (PostgreSQL row-locking & MongoDB aggregation), and microservices
+- ⚙️ Expertise in **High-Concurrency Backend Architecture**, database optimization (PostgreSQL row-locking & MongoDB aggregation).
 - ⛓️ Experienced in **Web3 Automation**: Node.js transaction bots, Alchemy smart contract event listeners, and EIP-681 URI generation
 - 🚀 Passionate about building scalable, production-grade web applications with **Docker** & **Nginx**
 - 📫 Reach me at **faizansatti2001@gmail.com**
